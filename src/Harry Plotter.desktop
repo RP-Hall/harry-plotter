@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=HarryPLOTter
+Comment=Plotting software
+Exec=python /usr/lib/harryplotter/harry.py
+Icon=/usr/lib/harryplotter/harry.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
